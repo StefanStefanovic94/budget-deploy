@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/budget-deploy/static/css/main.329f6dbe.chunk.css",
-    "main.js": "/budget-deploy/static/js/main.aece15ea.chunk.js",
-    "main.js.map": "/budget-deploy/static/js/main.aece15ea.chunk.js.map",
+    "main.css": "/budget-deploy/static/css/main.e8e5ca5a.chunk.css",
+    "main.js": "/budget-deploy/static/js/main.7f436166.chunk.js",
+    "main.js.map": "/budget-deploy/static/js/main.7f436166.chunk.js.map",
     "runtime-main.js": "/budget-deploy/static/js/runtime-main.bf532a3d.js",
     "runtime-main.js.map": "/budget-deploy/static/js/runtime-main.bf532a3d.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/budget-deploy/static/css/2.4c97ca4f.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.1f1e35bb.chunk.js.map": "/budget-deploy/static/js/2.1f1e35bb.chunk.js.map",
     "index.html": "/budget-deploy/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/budget-deploy/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.329f6dbe.chunk.css.map": "/budget-deploy/static/css/main.329f6dbe.chunk.css.map",
+    "static/css/main.e8e5ca5a.chunk.css.map": "/budget-deploy/static/css/main.e8e5ca5a.chunk.css.map",
     "static/js/2.1f1e35bb.chunk.js.LICENSE.txt": "/budget-deploy/static/js/2.1f1e35bb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.bf532a3d.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.1f1e35bb.chunk.js",
-    "static/css/main.329f6dbe.chunk.css",
-    "static/js/main.aece15ea.chunk.js"
+    "static/css/main.e8e5ca5a.chunk.css",
+    "static/js/main.7f436166.chunk.js"
   ]
 }
