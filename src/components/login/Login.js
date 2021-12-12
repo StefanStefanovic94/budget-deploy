@@ -50,7 +50,7 @@ class Login extends React.Component {
           );
           this.props.history.push("/wallet");
         })
-        .catch((error) => alert("Invalid email or password"));
+        .catch((error) => alert("Invalid username or password"));
       console.log(localStorage);
     };
 
@@ -89,7 +89,7 @@ class Login extends React.Component {
                 className="inputpas"
                 onChange={this.setPassword}
                 type="password"
-                placeholder="Input text"
+                placeholder="password"
               />
               <div className="eyeIcon" onClick={this.changeClass}>
                 <svg width="17" height="17" viewBox="0 0 17 17" fill="none" xmlns="http://www.w3.org/2000/svg">
