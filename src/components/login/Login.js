@@ -34,7 +34,7 @@ class Login extends React.Component {
 
     submitCredentials = () => {
       const payload = {
-        username: this.state.username,
+        username: this.state.username ? this.state.username : false,
         password: this.state.password,
       };
 
